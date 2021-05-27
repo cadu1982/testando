@@ -1,3 +1,3 @@
 
 
-console.log("configuração")
+console.log("configuração-pronta")
