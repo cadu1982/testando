@@ -1,3 +1,3 @@
 
 
-console.log("index-config")
+console.log("index-config-prontas")
