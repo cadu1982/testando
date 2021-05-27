@@ -1,3 +1,5 @@
 
 
-console.log("configuração-pronta")
+console.log("configuração-pronta"),
+console.log("errado")
+
